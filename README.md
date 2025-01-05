@@ -42,8 +42,6 @@
 
 ###
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/Mega-collab-1/Mega-collab-1/output/snake.svg" alt="Snake animation" />
 
 ###
